@@ -1,0 +1,27 @@
+# Keil uVision build outputs (relevant once the zip is unpacked into the repo)
+*.o
+*.crf
+*.d
+*.axf
+*.lnp
+*.map
+*.htm
+*.plg
+*.tra
+*.dep
+*.lst
+*.__i
+*.bak
+*.uvopt
+*.uvgui.*
+Listings/
+Objects/
+
+# Host-side (Linux) build outputs
+a.out
+logger
+
+# Editor and OS noise
+*.swp
+*~
+.DS_Store
